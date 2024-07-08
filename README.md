@@ -20,7 +20,7 @@
 Olá! Meu nome é Angela, tenho 42 anos, sou formada em Sistemas de Informação pela faculdade São Luís de Jaboticabal - SP e especializada em Sistemas para Internet pela Faculdade UNAERP de Ribeirão Preto. Sou estudante de inglês na Mr. Wiz, e aprendendo Python e suas bibliotecas
 <br>
 
-### Hard Skills: 🔭
+## Hard Skills: 🔭
 
 Python (pandas, dash)
 SQL 
@@ -33,7 +33,7 @@ Git & Controle de Versão
 
 <br>
 
-### Soft Skills: 💬
+## Soft Skills: 💬
 
 Comunicativo
 Trabalho em equipe
