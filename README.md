@@ -1,63 +1,28 @@
-## Olá, seja bem vindo(a) ao meu perfil 👋
+## 🚀 Seja bem vindo(a) ao meu perfil 👋
 
+Olá, pessoas do mundo do desenvolvimento! 👋 Sejam muito bem-vindos ao meu cantinho no GitHub, onde a mágica dos códigos acontece e bugs... bem, esses a gente doma! 😜
 
-# Olá! Bem-vindo(a) ao meu repositório! 👋
+Meu nome é Angela Leite e sou uma entusiasta da programação, sempre em busca de novos desafios e soluções criativas. Aqui você vai encontrar um pouco da minha jornada, dos meus experimentos (sim, alguns funcionam! 😂) e de projetos que me fazem virar a noite com um sorriso no rosto (e uma xícara de café ☕ do lado!).
 
-<br>
+🧐 O Que Você Encontra Por Aqui?
+Projetos da Firma (ou quase!): Aqueles códigos que me fazem aprender e crescer a cada linha. 🌱
+Ideias Malucas: Sabe aquele projeto que surge no meio da madrugada? Ele pode parar aqui! 🌃
+Estudos e Desafios: Porque aprender nunca é demais, né? E se tiver um desafio, a gente topa! 💪
+Bugs Amigáveis: Às vezes eles aparecem, mas a gente sempre dá um jeito de transformar eles em features. 🐛➡️✨
+💖 Minhas Paixões Tecnológicas (e não só!)
+Se você me encontrar codificando, é provável que eu esteja namorando com:
 
-## Minha experiência: ⚡
+Python: 🐍 Ah, Python! A linguagem que me faz sentir uma fada madrinha dos dados. ✨
+JavaScript: 🌐 Onde a magia acontece no front-end e a gente faz o site piscar! 😉
+SQL: 📊 Para domar os bancos de dados e extrair insights preciosos. 💎
+E muitas outras coisas: Sou curiosa, então sempre estou explorando novas ferramentas e tecnologias! 🕵️‍♀️
+🎉 Bora Conectar?
+Curtiu o que viu? Tem alguma ideia pra compartilhar? Ou só quer trocar uma figurinha sobre aquele bug misterioso? Não hesite em me contatar! Adoro uma boa conversa sobre código, café e a vida! 💬
 
-🌐 Tenho experiência em trabalhar com PHP, Mysql, Oracle, .Net Core <br>
-📚 Estou aprendendo Python e suas bibliotecas para Ciência de Dados e Machine Learning <br>
-🎲 Trabalho como Analista de Sistemas na FAEPA e estou alocada no Hospital estadual de Ribeirão Prero - SP 
-<br>
-📧 Quer entrar em contato comigo? Envie um e-mail para angela-leitte@hotmail.com <br>
-<br>
+Você pode me encontrar por aqui mesmo no GitHub, abrindo uma issue (ou quem sabe um pull request com uma piada de programador? 😄).
 
+Agradeço a sua visita e espero que possamos construir coisas incríveis juntos!
+Um abraço codificado,
 
-## Sobre mim: 🌱
-
-Olá! Meu nome é Angela, tenho 42 anos, sou formada em Sistemas de Informação pela faculdade São Luís de Jaboticabal - SP e especializada em Sistemas para Internet pela Faculdade UNAERP de Ribeirão Preto. Sou estudante de inglês na Mr. Wiz, e aprendendo Python e suas bibliotecas
-<br>
-
-## Hard Skills: 🔭
-
-Python (pandas, dash)
-SQL 
-Machine Learning (Modelos supervisionados, não supervisionados)
-Estatística descritiva e inferencial aplicada à análise de dados
-.Net Core
-JavaScript
-Git & Controle de Versão
-<br>
-
-<br>
-
-## Soft Skills: 💬
-
-Comunicativo
-Trabalho em equipe
-Proatividade
-Aprendo muito rápido
-Autodidata
-<br>
-
-<br>
-
-## Projetos em que atuei: 👯
-
--> Sites institucionais em PHP<br>
--> Sistema para controle de custos de linhas de transporte em PHP<br>
--> Sistema parqa controle de chamados/reclamações de usuários em PHP<br>
--> Prontuário de Pacientes em .net Core<br>
--> Sistema de contingência do setor de atendimento a pacientes em .net Core<br>
--> entre outros...
-<br>
-
-<br>
-
-## Idiomas: ✨
-Sou fluente em português, possuo inglês básico.
-
-
-Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animada para compartilhar meu conhecimento e colaborar em projetos interessantes.
+Angela Leite 👩‍💻
+Sempre em busca da próxima linha de código que vai mudar o mundo... ou pelo menos o meu dia! 😂
